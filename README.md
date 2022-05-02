@@ -1,4 +1,4 @@
-![Background](https://raw.githubusercontent.com/Aethernite/Aethernite/main/background.jpg)
+![Background](https://raw.githubusercontent.com/Aethernite/Aethernite/master/background.jpg)
 
 # Hi, I'm Borislav 👋
 
