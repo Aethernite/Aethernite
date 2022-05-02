@@ -2,7 +2,7 @@
 
 # Hi, I'm Borislav 👋
 
-Passionate software engineer with a particular focus on Java/Spring. You can find me on [LinkedIn](https://www.linkedin.com/in/borislav-arangelov-6b46801b6/), contributing to Open Source here on Github, and frequenting new coffee shops in NYC.
+Passionate software engineer with a particular focus on Java/Spring. You can find me on [LinkedIn](https://www.linkedin.com/in/borislav-arangelov-6b46801b6/), contributing to Open Source here on Github, and frequently playing games on Steam/PSN.
 
 - 🔭 Currently working with Java/Spring Microservices – Jenkins, Elasticsearch, AWS, Bash, PostgreSQL, MySQL
 - 🌱 Learning anything I can get my hands on!
